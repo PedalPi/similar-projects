@@ -20,5 +20,5 @@ Projects with similar purpose to Pedal Pi.
 
 ## [Auto3000 PedalPii](https://github.com/auto3000/pedalpii)
 
-![Pedal Pii](images/electrosmash-pedalpi.jpg)
+![Pedal Pii](images/pedalpii.jpeg)
 
